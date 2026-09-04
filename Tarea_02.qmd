@@ -1,0 +1,62 @@
+---
+title: "Tara2"
+format: html
+editor: visual
+---
+
+# Tarea 2. Tipos de secuenciamiento
+
+Cantidad de veces que google Academic encuentra “Sanger sequencing” : 624 000
+
+Cantidad de veces que google Academic encuentra “Illumina sequencing”: 634 000
+
+Cantidad de veces que google Academic encuentra “Ion torrent sequencing” 66 100
+
+Cantidad de veces que google Academic encuentra “PacBio sequencing”: 77 600
+
+Cantidad de veces que google Academic encuentra “Oxford Nanopore sequencing”: 87 000
+
+Suma: (624000+634000+66100+77600+87000)/5
+
+1 488 700
+
+Porcentajes:
+
+-   Sanger: 41.9%
+
+-   Illumina: 42.5%
+
+-   Ion Torrent: 4.4%
+
+-   PacBio: 5.2%
+
+-   Oxford Nanopore: 5.8%
+
+![](Downloads/WhatsApp Image 2026-09-04 at 08.46.49 (1).jpeg){width="369"}
+
+![](Downloads/WhatsApp Image 2026-09-04 at 08.46.49.jpeg){width="365"}
+
+
+
+
+
+
+
+
+
+Metodos vistos, identificación de los valores de calidad de secuencias:
+
+-   Sanger: precisión alta, bajo costo, lecturas largas de un mismo fragento; un fragmento a la vez, sensibilidad limitada
+
+-   Illumina: precisión alta, muchos fragmentos a la vez; costo incial limitado, lecturas cortas
+
+-   Ion Torrent: detecta los cambios de pH;  tiene un nucleótido con un protón extra que se libera y el equipo detecta el cambio en el pH; alta tasa de error
+
+-   PacBio: 3ra generación; no es necesario romper el DNA a secuenciar; detecta la fluorescencia de cada nucleótido al incorporarse a la cadena; 1 kb- 50 000 kb; a la hebra de DNA la vuelve circular, la Pol da varias lecturas; muy caro; detecta variantes estructurales, variantes de nucleotidos, forma del RNA; baja tasa de error
+
+-   Oxford Nanopore: utiliza un nanoporo donde ingresa un stand de DNA, la cual se separa justo afuera del poro, junto a un torrente; el nanoporo lee la secuencia a través de cambios de voltaje; alta tasa de error; 
+
+-   MinION: portable; nanoporos; detección por cambios de voltaje; tasa alta de error; 
+
+![](Downloads/WhatsApp Image 2026-09-04 at 08.22.06.jpeg)
+![](Downloads/WhatsApp Image 2026-09-04 at 08.21.49.jpeg)
